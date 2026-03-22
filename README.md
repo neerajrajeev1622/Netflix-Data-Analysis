@@ -6,6 +6,18 @@ This project analyzes Netflix content using Tableau to uncover insights about co
 
 ---
 
+## 📷 Dashboard Preview
+
+### 🔹 Dashboard 1
+
+![Overview](screenshots/dashboard1.png)
+
+### 🔹 Dashboard 2
+
+![Overview](screenshots/dashboard2.png)
+
+---
+
 ## 🚀 Key Features
 
 ### 📌 Dashboard 1: Overview
@@ -30,18 +42,6 @@ This project analyzes Netflix content using Tableau to uncover insights about co
 
 * Tableau Public
 * Excel (Data Cleaning)
-
----
-
-## 📷 Dashboard Preview
-
-### 🔹 Dashboard 1
-
-![Dashboard 1](dashboard1.png)
-
-### 🔹 Dashboard 2
-
-![Dashboard 2](dashboard2.png)
 
 ---
 
